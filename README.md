@@ -1,2 +1,2 @@
-# C-17-Projects
-Projects
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
